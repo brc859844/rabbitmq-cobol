@@ -1,7 +1,7 @@
 # rabbitmq-cobol
 Accompanying code for http://assortedrambles.blogspot.com/2013/04/using-rabbitmq-from-cobol_9584.html.
 
-This repository contains code and examples to accompany this rather old blog post about interacting with RabbitMQ from COBOL. The code was pulled together fairly quickly for the purposes of the blog and accordingly it is not of “production quality”, and should be treated with some degree of caution. The code is not at all well-documented, nor necessarily complete, but is posted here in the hope that it may be useful. That being said, the examples do work, and it would not take too much effort to beat things into better shape!
+This repository contains code and examples to accompany [this](http://assortedrambles.blogspot.com/2013/04/using-rabbitmq-from-cobol_9584.html) rather old blog post about interacting with RabbitMQ from COBOL. The code was pulled together fairly quickly for the purposes of the blog and accordingly it is not of “production quality”, and should be treated with some degree of caution. The code is not at all well-documented, nor necessarily complete, but is posted here in the hope that it may be useful. That being said, the examples do work, and it would not take too much effort to beat things into better shape!
 
 Some points to note:
 
