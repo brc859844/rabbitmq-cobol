@@ -10,5 +10,6 @@ Some points to note:
   - The makefiles are totally brain-dead.
   - Be sure to read the blog before trying to do anything much with the code (it will make things at least somewhat clearer).
   - The examples have broker connectivity and other details hardwired; these will need to be changed as appropriate to your environment. One or two of the examples also assume some broker configuration details (queues, bindings).
+  - To build the examples it is assumed that the package https://github.com/alanxz/rabbitmq-c is built and installed somewhere on your system (it may be necessary to change include and library paths specified in the makfiles).
 
 Enjoy!
